@@ -7,10 +7,7 @@ Works with all Sitefinity versions above 6.3
 
 ### Video demo:
 
-<video width="320" height="240" controls>
-  <source src="" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<embed src="http://screencast.com/t/uC6KLYJUE" width="550" height="400" />
 
 ### License information
 
