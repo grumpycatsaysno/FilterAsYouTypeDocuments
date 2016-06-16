@@ -51,6 +51,7 @@ This project has been released under the Apache License, version 2.0, the text o
 
 * Go to Content -> Documents & Files and make sure to upload several documents 
 * Go to Pages and create new Standard page
+* In Advanced options section check Enable ViewState
 * From the toolboxes sidebar expand CustomWidgets section
 * Drag & Drop the CustomDownloadList Widget on the page
 * Publish and view the page
