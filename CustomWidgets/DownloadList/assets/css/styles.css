@@ -1,0 +1,66 @@
+﻿div.well.resid-arrow p {
+    padding: 5px;
+}
+
+.search {
+    position: absolute;
+    background-color: #f5f5f5;
+    font-family: 'ArialMT', 'Arial';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    text-decoration: none;
+    color: #000000;
+    text-align: left;
+    border-color: transparent;
+    outline-style: none;
+}
+
+div.download-box {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+
+    div.download-box h4 {
+        color: rgba(118, 189, 29, 1);
+        padding: 20px 0px;
+    }
+
+div.download-list {
+    border-bottom: 4px solid #ebebeb;
+    padding: 10px 0px;
+}
+
+#last-of-the-list {
+    margin-bottom: 50px;
+}
+
+div.download-list h5 {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0px;
+    margin-top: 0px;
+}
+
+div.download-list span {
+    float: right;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+div.download-list i {
+    margin-right: 20px;
+    padding: 0px;
+    font-size: 40px;
+}
+
+div.download-list p {
+    margin-top: 8px;
+    font-weight: 400;
+}
+
+div.resid-arrow span.lend-cri {
+    display: inline-block;
+    float: right;
+}
