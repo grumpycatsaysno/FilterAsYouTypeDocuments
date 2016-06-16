@@ -9,7 +9,7 @@ Works with all Sitefinity versions above 6.3
 
 Cick on the image below to watch a demo:
  
-[![Revision history settings for pages in Sitefinity](http://screencast.com/t/3bJnbcfOF)](http://screencast.com/t/Bkvw0I7MqK0)
+[![Revision history settings for pages in Sitefinity](https://www.dropbox.com/s/8xsapepqwzkzajl/documents.png?dl=0)](http://screencast.com/t/Bkvw0I7MqK0)
 
 ### License information
 
