@@ -7,7 +7,8 @@ Works with all Sitefinity versions above 6.3
 
 ### Video demo:
 
-<embed src="http://screencast.com/t/uC6KLYJUE" width="550" height="400" />
+[![Filter as you type](https://s31.postimg.org/8gcmfosqj/documents.png)](http://screencast.com/t/uC6KLYJUE)
+
 
 ### License information
 
