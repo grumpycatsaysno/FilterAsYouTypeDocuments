@@ -7,8 +7,9 @@ Works with all Sitefinity versions above 6.3
 
 ### Video demo:
 
-[![Filter as you type](https://s31.postimg.org/8gcmfosqj/documents.png)](http://screencast.com/t/uC6KLYJUE)
+Click on the image below to watch a video demonstration:
 
+[![Filter as you type](https://s31.postimg.org/8gcmfosqj/documents.png)](http://screencast.com/t/uC6KLYJUE)
 
 ### License information
 
